@@ -1,0 +1,22 @@
+{
+  "name": "lab7_hectorh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HAHRJR94/Lab7_HAHR.git"
+  },
+  "author": "HectorH",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HAHRJR94/Lab7_HAHR/issues"
+  },
+  "homepage": "https://github.com/HAHRJR94/Lab7_HAHR#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
