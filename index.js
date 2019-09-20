@@ -3,7 +3,7 @@ const express = require('express')
 //Define app as function from express module
 const app = express();
 
-const port = 3000;
+const port = process.env.PORT || 3000
 const options = {
     root: __dirname
 }
